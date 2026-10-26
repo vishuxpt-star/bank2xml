@@ -1,0 +1,6 @@
+{
+  "name": "Bank2XML - Statement to Tally ERP9 & QuickBooks XML Converter",
+  "description": "Convert bank statement PDFs and scanned images into strictly compliant XML for Tally ERP9 and QuickBooks Online with OCR, ledger mapping, and secure cloud vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
